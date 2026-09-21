@@ -75,10 +75,6 @@ The adapter does not include a fixed 120-ohm CAN termination resistor.
 
 CAN termination should be provided at the physical ends of the CAN network.
 
-## Future Use
-
-The adapter was designed with robotics applications in mind.
-
 ## Demo
 
 YouTube demonstration:
