@@ -79,8 +79,6 @@ CAN termination should be provided at the physical ends of the CAN network.
 
 The adapter was designed with robotics applications in mind.
 
-The goal is to use it as part of a rover system where a PC or embedded computer such as a Jetson can communicate with CAN-based motor controllers and other devices.
-
 ## Demo
 
 YouTube demonstration:
