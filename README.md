@@ -28,7 +28,7 @@ The firmware is based on the GS_USB interface so the board can operate as a USB-
 
 The firmware handles:
 
-- USB communication
+- USB-to-CAN communication
 - CAN initialization
 - CAN frame transmission
 - CAN frame reception
